@@ -1,0 +1,14 @@
+uriesmoothai-videomini/
+├── agent/
+│   ├── agent_worker.py        # LiveKit real-time voice & avatar worker
+│   └── requirements.txt       # Python backend dependencies
+├── backend/
+│   ├── settlements.py         # FastAPI financial & payment gateway
+│   └── requirements.txt       # FastAPI dependencies
+├── dashboard/
+│   ├── app/
+│   │   └── page.tsx           # Next.js customer & financial command center
+│   ├── package.json           # Node dependencies
+│   └── tsconfig.json          # TypeScript configurations
+├── .env.example               # Template for required environment keys
+└── README.md                  # Project documentation & deployment guide
