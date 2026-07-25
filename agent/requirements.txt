@@ -1,0 +1,6 @@
+livekit-agents>=0.8.0
+livekit-plugins-google>=0.6.0
+livekit-plugins-deepgram>=0.6.0
+livekit-plugins-cartesia>=0.6.0
+livekit-plugins-tavus>=0.1.0
+python-dotenv>=1.0.0
